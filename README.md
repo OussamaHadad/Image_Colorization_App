@@ -26,5 +26,4 @@ The ML model used here is built based on the model defined on image colorization
 4° Go to: localhost:5000/
 
 Finally, the following web page arises and then you can colorize your old images. <br>
-Give it a try!
-
+# Go give it a try!
