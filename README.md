@@ -17,7 +17,7 @@ The ML model used here is built based on the model defined on image colorization
 3° Go to terminal and type the following commands: <br>
   >3.1° docker image build -t "some-name-from-your-choice" . <br>
   >3.2° docker run -p 5000:5000 -d "the-name-you-chose" <br>
-  >3.3° wait for few seconds <br>
+  3.3° wait for few seconds <br>
 4° Go to: localhost:5000/
 
 Finally, the following web page arises and then you can colorize your old images. <br>
