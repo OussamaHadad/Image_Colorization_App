@@ -1,5 +1,9 @@
 # Image Colorization App
 This repository contains the files and folders needed to deploy a colorization app locally or in the cloud.
+<div style="display: flex; justify-content: space-between;">
+  <img src="web_app_image.png" width="50%">
+</div>
+
 This app takes as an input an uncolorized color (black and white) and colorizes it using a Machine Learning model. 
 The ML model used here is built based on the model defined on image colorization repository. For more information about it please check this link: https://github.com/OussamaHadad/Image_Colorization
 
