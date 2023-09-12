@@ -5,7 +5,7 @@ The ML model used here is built based on the model defined on image colorization
 
 # How to deploy the model?
 ## Method 1:  Local deployment
-1° Clone the repository  \
+1° Clone the repository  \\
 2° Install the python version mentionned in Dockerfile
 3° Install the python libraries mentionned in requirements.txt
 4° Run app.py
