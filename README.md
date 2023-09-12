@@ -11,7 +11,7 @@ The ML model used here is built based on the model defined on image colorization
 4° Run app.py
 5° Go to: localhost:5000/
 
-## Method 2:
+## Method 2: Local deployment with Docker
 1° Clone the repository
 2° cd to the colorize_app folder
 3° Go to terminal and type the following commands:
