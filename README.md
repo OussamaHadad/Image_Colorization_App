@@ -15,10 +15,9 @@ The ML model used here is built based on the model defined on image colorization
 1° Clone the repository <br>
 2° cd to the colorize_app folder <br>
 3° Go to terminal and type the following commands: <br>
-  >>3.1° docker image build -t "some-name-from-your-choice" . <br>
-  >>3.2° docker run -p 5000:5000 -d "the-name-you-chose" <br>
-  >>3.3° wait for few seconds
-  
+  >3.1° docker image build -t "some-name-from-your-choice" . <br>
+  >3.2° docker run -p 5000:5000 -d "the-name-you-chose" <br>
+  >3.3° wait for few seconds
 4° Go to: localhost:5000/
 
 Finally, the following web page arises and then you can colorize your old images. <br>
