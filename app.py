@@ -6,8 +6,6 @@ from functions import *
 
 app= Flask(__name__)
 
-app.secret_key= 'Yan_Sin_Krad_1_2_3'
-
 @app.route('/', methods= ['GET', 'POST'])
 def colorize_image():
     if request.method == 'POST':
