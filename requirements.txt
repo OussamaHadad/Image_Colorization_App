@@ -2,6 +2,6 @@
 
 scikit-image==0.21.0
 Flask==2.3.2
-keras==2.13.1rc0
+keras
 numpy==1.22.4
 tensorflow==2.12.1
